@@ -71,6 +71,13 @@
     "semantic-button-backgroundcolor": {
       "value": "{color.red.value}",
       "type": "color"
+    },
+    "test": {
+      "link": {
+        "value": "{purple-1}",
+        "type": "color"
+      }
     }
-  }
+  },
+  "$themes": []
 }
