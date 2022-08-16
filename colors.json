@@ -68,6 +68,14 @@
       "value": "#bb6bd9ff",
       "type": "color"
     },
+    "fdgsdfgs": {
+      "value": "#593c3cff",
+      "type": "color"
+    },
+    "trewt-test-pass": {
+      "value": "#ff0000ff",
+      "type": "color"
+    },
     "semantic-button-backgroundcolor": {
       "value": "{color.red.value}",
       "type": "color"
